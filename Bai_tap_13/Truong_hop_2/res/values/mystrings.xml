@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myarray">
+        <item >Trần Văn Tèo</item>
+        <item >Nguyễn Văn Hiền</item>
+        <item >Nguyễn Văn A</item>
+    </string-array>
+    
+</resources>

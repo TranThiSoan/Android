@@ -1,0 +1,5 @@
+package com.example.truong_hop_4;
+
+public abstract class Employee {
+
+}

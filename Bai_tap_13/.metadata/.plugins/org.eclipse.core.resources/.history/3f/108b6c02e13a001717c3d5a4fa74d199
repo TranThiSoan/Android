@@ -1,0 +1,13 @@
+package com.example.truong_hop_4;
+
+public class EmployeeFullTime {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
